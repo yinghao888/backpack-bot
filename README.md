@@ -1,4 +1,4 @@
-# backpack-botBackpack Trading robot
+# Backpack Trading robot
 
 使用方法：
 
